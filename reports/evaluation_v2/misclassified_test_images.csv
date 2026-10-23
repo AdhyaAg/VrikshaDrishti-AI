@@ -1,0 +1,12 @@
+﻿relative_path,true_label,predicted_label,group_id,confidence
+leafs/leaf 019.jpeg,leafs,saplings,leaf-019,0.4330154061317444
+leafs/leaf 028 (2).jpg,leafs,saplings,leaf-028,0.5083398818969727
+leafs/leaf 028.jpg,leafs,saplings,leaf-028,0.5035815834999084
+trees/tree 015 (2).jpg,leafs,trees,tree-015,0.5140226483345032
+trees/tree 020.jpg,trees,saplings,tree-020,0.5219300389289856
+trees/tree 023 (2).jpg,leafs,saplings,tree-023,0.6280384659767151
+trees/tree 026 (2).jpg,leafs,saplings,tree-026,0.6447197794914246
+trees/tree 031.jpg,trees,saplings,tree-031,0.9308018684387207
+trees/tree 036 (2).jpg,saplings,leafs,tree-036,0.5027219653129578
+trees/tree 036.jpg,saplings,trees,tree-036,0.43092188239097595
+trees/tree 051 (2).jpg,trees,saplings,tree-051,0.5447087287902832

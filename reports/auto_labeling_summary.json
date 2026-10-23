@@ -1,0 +1,1 @@
+{"status":"deprecated","valid_for_ground_truth":false,"reason":"Legacy species names were assigned using a filename hash and health status came from unvalidated color/contour heuristics.","legacy_records_file":"auto_labeling_summary.unverified_legacy.json","replacement":"image_audit_manifest.csv","verified_species_count":0,"verified_health_count":0}

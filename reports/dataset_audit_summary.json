@@ -1,0 +1,68 @@
+{
+  "audit_version": "1.0",
+  "training_source": "to review real dataset",
+  "excluded_folder": "datasets",
+  "candidate_source_summary": {
+    "real_dataset": {
+      "folder": "to review real dataset",
+      "files": 128,
+      "valid": 128,
+      "invalid": 0,
+      "matches_to_primary_with_dhash_le_4": 0
+    },
+    "ngo_raw_images": {
+      "folder": "NGO Tree Dataset\\Raw images",
+      "files": 41,
+      "valid": 41,
+      "invalid": 0,
+      "matches_to_primary_with_dhash_le_4": 40
+    },
+    "roboflow_export": {
+      "folder": "tree-classification-v1",
+      "files": 41,
+      "valid": 41,
+      "invalid": 0,
+      "matches_to_primary_with_dhash_le_4": 40
+    },
+    "ngo_prepared_copy": {
+      "folder": "NGO Tree Dataset\\labelled dataset",
+      "files": 126,
+      "valid": 126,
+      "invalid": 0,
+      "matches_to_primary_with_dhash_le_4": 126
+    }
+  },
+  "primary_original_files": 128,
+  "primary_valid_files": 128,
+  "primary_unique_images_after_exact_deduplication": 126,
+  "primary_exact_duplicate_groups": 2,
+  "primary_unique_eligible_for_training": 116,
+  "additional_unique_candidate_images_not_in_primary": 1,
+  "original_class_counts": {
+    "leafs": 31,
+    "saplings": 4,
+    "trees": 89,
+    "unclear": 4
+  },
+  "validated_class_counts": {
+    "saplings": 21,
+    "leafs": 54,
+    "trees": 41
+  },
+  "decision_counts_including_duplicate_records": {
+    "correct": 50,
+    "keep": 66,
+    "review": 7,
+    "exclude": 5
+  },
+  "species_verified_count": 0,
+  "health_verified_count": 0,
+  "disease_verified_count": 0,
+  "seed": 42,
+  "notes": [
+    "Only the primary Real Dataset folder contributes training candidates.",
+    "40 of 41 Roboflow images and 40 of 41 NGO raw images match approved originals by dHash; the remaining image is the same extra candidate in both folders and is pending due to an unsupported `leafs` framing label.",
+    "Species and health are uncertain for all photos; they are not model targets.",
+    "The `unclear` source class is pending because its definition is undocumented; inference uncertainty is handled by abstention."
+  ]
+}

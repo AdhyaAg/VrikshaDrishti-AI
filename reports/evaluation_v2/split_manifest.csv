@@ -1,0 +1,117 @@
+﻿relative_path,verified_class,group_id,split,sha256
+leafs/38b21514-5833-4546-bb44-0ef32d8c38fa.jpg,saplings,image-7e52c5bc6ebe,train,7e52c5bc6ebe1ed69605c6c85faef2d7f42331512035856c4e3be831a55c9982
+leafs/leaf 002.jpeg,leafs,leaf-002,train,21822baa7a5eb102be478493ffb7820073a7846225d4dccff34be4719fc47be5
+leafs/leaf 003.jpeg,leafs,leaf-003,train,40e0a182fdc75869a1023962cf2783626c86364b00690c0492cfc64be5081a9a
+leafs/leaf 005.jpeg,leafs,leaf-005,train,8a2b32f1b0e80942ef88d3ca2041186b61610dc4e1ced17dcb77245f3a25b354
+leafs/leaf 006.jpeg,leafs,leaf-006,train,8158e44921c67b3d9f78a9c232358981a5e91e84e2d362a6032faded5c71b9e6
+leafs/leaf 007.jpeg,leafs,leaf-007,train,ed3d18cf34f46f345362aa976ca3c5f7e93a8d2c483684e899083f4ddb035228
+leafs/leaf 009.jpeg,leafs,leaf-009,train,7b0b9e0f952666be5894e91c121bcdd10be4c45bbf46cecc57d9f49a83f2ce44
+leafs/leaf 011.jpeg,leafs,leaf-011,train,53a0fe6e12bcd18578118d60f311ac09c748f26cb7be829cbe02ce4f48589c22
+leafs/leaf 013.jpeg,leafs,leaf-013,train,60b1f9977a5729f6a395ac4765b1649bd4da78cb77b2d1d8a32849e67e877a73
+leafs/leaf 014.jpeg,leafs,leaf-014,train,68ebf89dd05255608c6b03660b6bd538c88e6a655c4c82a11192b77a38a11728
+leafs/leaf 015.jpeg,leafs,leaf-015,train,bca3e8318f143dc2756374d3c4174b1e40b1ba6dd89311964813363e15baca43
+leafs/leaf 016.jpeg,leafs,leaf-016,train,ef79193fbbec0aa6337504154e933c54928daf2861b0b032f059215f044b8610
+leafs/leaf 017.jpeg,saplings,leaf-017,train,ac734635f3588794a3f2a95018cd113706270b9d1675b3cd74c74f4c19b6b8c4
+leafs/leaf 018.jpeg,leafs,leaf-018,train,4e30c1f0e9d3c061da1751083f7252864a881d60c171fb9dccc281d577890cc2
+leafs/leaf 021.jpeg,leafs,leaf-021,train,8d7116d7737f4b1133f7bf25420ff296fc97253ce89d4f7113620f321cdbda8e
+leafs/leaf 022.jpeg,leafs,leaf-022,train,9383841a3da486b8f04dd9ac2b7dba4b167da5664ab9a15b38f0ada430edb63e
+leafs/leaf 026.jpeg,leafs,leaf-026,train,9a9c38a1a5e68ac108737361eef54b70a10e9a31e5f83c5a289f969c8012db23
+leafs/leaf 029.jpg,leafs,leaf-029,train,33a9176e8563d03fd7c1643fa99bfea314e4382240ee3d0f41c2d7c7affb5b8f
+saplings/sap 002.jpeg,saplings,sap-002,train,e1140ff0110281fb91e71953128c11eb141eea8443f018fedf2def49b21637a5
+trees/tree 001.jpeg,trees,tree-001,train,d17300a6af865c9783408d87db5097bd7a9d60da118723e6981c7d40131024dd
+trees/tree 002.jpeg,trees,tree-002,train,7ce93152d9e1ab75d3d047d03d73aa7016b8ef457dcf3abf820814ba188834bb
+trees/tree 004.jpeg,trees,tree-004,train,cbbcac286b51b5fc71617669fe5d0220dc96ab5c70209b4be0316803bcfdba4f
+trees/tree 005.jpeg,trees,tree-005,train,8575b13dbc4d2f04124ecff7f509c9650e4e9ccdba3f02fd2fb3f0e437f1df0d
+trees/tree 006.jpeg,trees,tree-006,train,7f51f4d9cde685df99648a725f79dd6b7a66f8b8e73d0da46a100b5e588a30db
+trees/tree 008.jpg,trees,tree-008,train,f21c1b18dd4c4dcb2048a30d5f80c93087ec24f180799c045e551dddef3f5093
+trees/tree 010 (2).jpg,leafs,tree-010,train,6a295efcbd932c2a5b5cdda207d231c505335783887f4860e609053391a59360
+trees/tree 010 (3).jpg,leafs,tree-010,train,e15e0f896f7e2afad9216999e35e21e4da23b43e9c7230a25d84ce88782837e5
+trees/tree 010.jpg,trees,tree-010,train,907c78c06cbbce8fcbe22d5295cd1666916b7d85407814458c581b6e20d84b69
+trees/tree 011 (2).jpg,leafs,tree-011,train,e5f2de67c9ceaa51ecd987fa748101c53dc1cfa2471be5d66292343434ca9f79
+trees/tree 011.jpg,trees,tree-011,train,fcedb32c69e7e38deadc07d259fdd1c1914db1b6c4b607ad9a648b9b46be5239
+trees/tree 012 (2).jpg,saplings,tree-012,train,53465f44fbaf8ac36cf7b6a3d7859ad7817c02e6c2fbef90d7870a20c211cbe3
+trees/tree 012 (3).jpg,leafs,tree-012,train,b8aad486fc66e8fa1e461aa8b731fa125b6d70ad6407a19b7be481eec280d2db
+trees/tree 012.jpg,trees,tree-012,train,20f44e49a53924c8528fcf932a8f08cce6ae739b04d29ee7f5ff283bfda51161
+trees/tree 013.jpg,trees,tree-013,train,981c4cd7da51d41ea2fbc3e05e96c7a0cbac54bfea3e53f393e7775a7a29ae7c
+trees/tree 014 (2).jpg,leafs,tree-014,train,f94500d956d5ca5002945fd705860f411c416dceea4b3390132ed2c27a770693
+trees/tree 014 (3).jpg,leafs,tree-014,train,3d1b6123309524f28503bb894d1fd81d5a0407c5d5184ec34b8839331acf5daa
+trees/tree 014.jpg,trees,tree-014,train,021ba137247520ac04d5e3338439ed10d02158b2f40ab639fd50f873e20f0638
+trees/tree 017 (2).jpg,leafs,tree-017,train,b602f70c57a4cca2dcb2e06f97060e55df6c98087a76f45e9680ec2a2ad0d82a
+trees/tree 017 (3).jpg,leafs,tree-017,train,e4c2b58df6c7262c2c5621ed56d81ad3529fc9b17317d7b6970dfe95b523d6e8
+trees/tree 017 (4).jpg,leafs,tree-017,train,b45ba82458d761e164a342d56bf2b201bf4f50bba8789149314dc1f6a95e3e3b
+trees/tree 017.jpg,trees,tree-017,train,ae5ec11aa97dfd2943ca72ee00f79ea8f980262bcb8b2c56c69ef9a43291eaab
+trees/tree 019 (2).jpg,saplings,tree-019,train,b52dee74158edf87ba1fbc907aec35c1b5479fded17a6ca0850c8724a3259ca7
+trees/tree 019.jpg,trees,tree-019,train,cf7a1f50597aa454a3491b907018d1e1fdf54d3e7704e47c1b0fdbf816b79e47
+trees/tree 021 (2).jpg,saplings,tree-021,train,cf719cbd43272a00b7a18057147ef39a1746dabcd4b0589845025c69e6c4a7fa
+trees/tree 021 (3).jpg,leafs,tree-021,train,99fc3088cf7ec56e77107269a6bb02704cca391e039907c61f6b6a0b062c43c3
+trees/tree 021 (4).jpg,saplings,tree-021,train,fc0b696dc1522307d42b55f7a95ae90245a6c7b39e60b599cd0c9bbcc0f113a2
+trees/tree 021.jpg,leafs,tree-021,train,17ed35b344e74af780a4afbf4f34a01be1cc7030a993f361d0d0a6f73f019556
+trees/tree 022 (2).jpg,leafs,tree-022,train,1cc7fb6ead257bb50de249dfb185d41432209a2f8a5f7a10f75258edd76b4422
+trees/tree 022.jpg,trees,tree-022,train,9bf382fba178f6d8abf7252207fab177642866d8ee43d954e5f761fe7b75a47e
+trees/tree 025.jpg,trees,tree-025,train,7e76cc012c7a323f5a19c47842f30bbec3696b24fa615aa461e594ec8c25e5cf
+trees/tree 029 (2).jpg,leafs,tree-029,train,0a14215d78c3c61193bd3fd8c871bcfc6496aefb8feb548f351e9054c9ccafd7
+trees/tree 029.jpg,trees,tree-029,train,22c34c178869a42d1e8bfd447efad8784c28bd079f1f9c8cbe9d0c782c721502
+trees/tree 032.jpg,saplings,tree-032,train,76bcab7ec46eb3d4a44ea87d949493207d87ddf90f1798ddbbd2c68d778d84bc
+trees/tree 037 (2).jpg,leafs,tree-037,train,ed66e52e4a361d8d208cc468e073da8e8bd182af410612e8e33b354c4bda1942
+trees/tree 037.jpg,saplings,tree-037,train,e3a937a3f0f33a0f2264988f90e54d49c1a5475e4cd3068e78ac518e5399deaa
+trees/tree 039 (2).jpg,saplings,tree-039,train,5841accb320793018bfc07085a2a7d9a85d7010cba50a6ad8bcc5959a6d23b41
+trees/tree 039 (3).jpg,saplings,tree-039,train,50361defd58c0923f0f5089b20d7432f71a427d8b9c1c80f7726daec0aaf7539
+trees/tree 039 (4).jpg,saplings,tree-039,train,6f946fdcf048b8c6e1f358d7a620ce010635c683c9701e2072a66353f2304cdd
+trees/tree 039.jpg,trees,tree-039,train,537b4b85ff6bc3ea560a5eee54b67e43644b58b7d14259961fa4527068f5cae1
+trees/tree 040.jpg,trees,tree-040,train,194c3849084ee307080492c584f9d70c1fa7cf2384da857425573d01ba21b6f7
+trees/tree 043.jpg,trees,tree-043,train,a108526336e4c6f77aeb4ad6e02fbd2c49b456562269019d81fdd733f4cf07d1
+trees/tree 044.jpg,leafs,tree-044,train,72a770a395ba129b07b3e564ae173fa067aa710337939c2e14aa29fe33ae63f6
+trees/tree 045.jpg,saplings,tree-045,train,14f1875c06118972fd78fa09bb83019f1af3708647ba6ec1facac5c53b441e79
+trees/tree 046.jpg,trees,tree-046,train,0b54ab977a00ffe2cd16135225024b61b371ccd8833d5ddc0f4839be66c75e78
+trees/tree 047.jpg,trees,tree-047,train,cb855f022da6ca2edcb88e56d88adfaa2c5ee0342740c627b4cdf92f56e3205e
+trees/tree 048.jpg,trees,tree-048,train,f19d257453de4f0da3b7736c4595a560f6ef9567496863597a8a72a7821af480
+trees/tree 049 (2).jpg,leafs,tree-049,train,a31a95764d4200f2075ddd3dff3bfec76dea074b5aa43895cf42e6dad1fbd35f
+trees/tree 049 (3).jpg,leafs,tree-049,train,b4283f92a0140074220375ce7048569aa420ae23a95ee9363a11925e002ce073
+trees/tree 049 (4).jpg,trees,tree-049,train,d14dbf540d59e26c4c1e3b8ceb0156ab05aeee02214502982d767aa00056943f
+trees/tree 049.jpg,trees,tree-049,train,1ade8a62b08d8168ffe8a7d77ec453ebe65663daf975df98f3520afd807c818c
+trees/tree 050 (2).jpg,leafs,tree-050,train,636cbe231161ba49d5d43ed067b498a29ce5abc1d1775851871385a53bcc1613
+trees/tree 050.jpg,trees,tree-050,train,6c6cdd2e94059f63e92728603ca1df7d744bf94715ee2eb6d366a3e327eb7d80
+leafs/leaf 004.jpeg,leafs,leaf-004,validation,ae1af3c91939690c61e5d65575986deb3137371f6007ce5e4f8aafbd4182e118
+leafs/leaf 027.jpeg,leafs,leaf-027,validation,167adba15700665fbc4cd50e1905467edc8c882184ab422fbe7f5fcd8381379e
+saplings/sap 003.jpeg,saplings,sap-003,validation,8cf352822d01da8835a1dbeb88dfea2ba41db6229319083447e63cc7e09e8a88
+trees/tree 003.jpeg,trees,tree-003,validation,2ff28ae02e8b16e399c4b9b91bf481f137a4be9b58b247327703652c468cc1a2
+trees/tree 009.jpg,trees,tree-009,validation,84adef506e7ad9d8eb1e1f6aa55715112974407410e24b596acb67bf79bceea3
+trees/tree 016 (2).jpg,leafs,tree-016,validation,3ef22bf994b8c579d1754382349fecb1e5efcd1a7bda050b5201427476675c07
+trees/tree 016.jpg,trees,tree-016,validation,d0ad57633f9e671af79d54a5ae803845f351360c6a6a1b9a261048014f55fc1b
+trees/tree 018 (2).jpg,trees,tree-018,validation,2d474b2ba34f0dbd3571612d64a463acc6a045b7ce851ec1461298291c90bb57
+trees/tree 018 (3).jpg,leafs,tree-018,validation,fcdf8cb4317069c2d2baea9eca09a5b4b75d025fff82bbf6f2e8bdd043a94f59
+trees/tree 018.jpg,trees,tree-018,validation,8ce243afa824913d10dc20f4e662a609719ccb0aa78168c69ebcfbab7264f7cb
+trees/tree 024 (2).jpg,leafs,tree-024,validation,2056c40a4fbb8a23b02bfed547ce2aeede887ad997cc51fc0645b6f7867bec63
+trees/tree 024.jpg,trees,tree-024,validation,c7c6310a7b74e9d9c67b275fe92bb7c3cb4b9aad0adda7b6b2afc2ef4a6fd3f3
+trees/tree 027.jpg,trees,tree-027,validation,0fd01141a6b9555e068b71b6e83a47f76e249979ce657304118f44d82a80eca7
+trees/tree 030.jpg,saplings,tree-030,validation,2eeb09780b7cd40a800c22d1afcd5caad1dd2a0a9b8908cf204108bad1593682
+trees/tree 033 (2).jpg,leafs,tree-033,validation,cdf81215d1fc79512706a06ef56549b9466ee4fe84fe881cc80f39d874924e1c
+trees/tree 033.jpg,saplings,tree-033,validation,2ee7d4de935ee03e01e42c3a5315d2686c80de5c63b1e0fb1eb5d7cecabe461f
+trees/tree 034 (2).jpg,leafs,tree-034,validation,615d6fff92303a76655067017292ae497c31a4737e91e396f8e06c54fe2a7735
+trees/tree 034.jpg,saplings,tree-034,validation,c6882505d38a615acc417b63c137b42491337303df92c8a281e7cfffe4faa80c
+trees/tree 035 (2).jpg,leafs,tree-035,validation,75fb87d5190356269344ec3e651415977d1e68731a1547be84ffe1db050c7f17
+trees/tree 035.jpg,leafs,tree-035,validation,e91c82d6627cb896d6c13764824336794c5db45d6066e739b14d0d6342ceeb09
+trees/tree 038.jpg,leafs,tree-038,validation,a961eaa17148f07906b1c8b74ec29ce244f68236e05f81efe29114b53058c37f
+trees/tree 042.jpg,trees,tree-042,validation,7760daae8994b3ab741fea2bac05e2b9db2ea26267cdee53ccf8c0102e706692
+leafs/leaf 001.jpeg,saplings,leaf-001,test,cffb59bda69ae0d2c425f3355580d6b64be782f62a3ccab6e05b266a0672651f
+leafs/leaf 008.jpeg,leafs,leaf-008,test,2a9c1bc12b868580143ee66be8cca025e5c5892bd46c248557901465ebca2e55
+leafs/leaf 012.jpeg,leafs,leaf-012,test,0d1fc5075abcf22c82fa982943914597645541defe6f1183e71e09f44ff24259
+leafs/leaf 019.jpeg,leafs,leaf-019,test,add76aaad5a72c43314c600399905e3875b10b33cee89e801bf43840c55f54b4
+leafs/leaf 028 (2).jpg,leafs,leaf-028,test,aae6fe56eb48eb8038c0f137b440a4ea4b61bbfc6ad2633dbbc49c73437e2b72
+leafs/leaf 028.jpg,leafs,leaf-028,test,cdca26e16eb6052c0db314caf20e6b01336a153dbdb0de32bd7b6c3aca9cb562
+trees/tree 007.jpg,trees,tree-007,test,302aabb75230cff7bb48623607b55926ba9bc91dc11390f7e3681f480809fd20
+trees/tree 015 (2).jpg,leafs,tree-015,test,6ac94a8d2059e1404bbf3badc22976c10f54ae660f84a3697532aaea46506dfb
+trees/tree 015 (3).jpg,leafs,tree-015,test,fcdd65a4432523a6b0b86baa202a8273726cab21fe9c93640bdc1ee40e9cf1ab
+trees/tree 015.jpg,trees,tree-015,test,115e3e9576ff18fe85169791889753a57e45a5447c27d093429ec3108508985b
+trees/tree 020 (2).jpg,saplings,tree-020,test,07ddc5552d7cfa49bdc96bd4c08b31aebb41029e770edd16e1c1fc8b4303a962
+trees/tree 020.jpg,trees,tree-020,test,e74c332740e1f47164a7391f59c0ddf26ad1c599746d485a9417a3940731575e
+trees/tree 023 (2).jpg,leafs,tree-023,test,85c25c0767b4c232cc3201d4a626dbc93d52c096e4c07fe30c145400fedd872b
+trees/tree 023.jpg,trees,tree-023,test,eb4a9789b22258cc34cb4584f11689e7940e88c5aa18229053a2be6c18916d1d
+trees/tree 026 (2).jpg,leafs,tree-026,test,f976a32c8b01a05daba52b8b99acb76d82da9e70792524e37b08b166b82e1f99
+trees/tree 026.jpg,trees,tree-026,test,251f70a509784d8a0b83e3d7b6d98a5542b87c1e3ca03eff065b2302719490ff
+trees/tree 028.jpg,leafs,tree-028,test,1ea1882db6c1a65d74a443facd457cb096acef745717ff59bcb5677d6eb038b7
+trees/tree 031.jpg,trees,tree-031,test,a84bad09f5e8311e351bea1ca1092c01f67db9aef6326e8a0b7cbb373ecb46b2
+trees/tree 036 (2).jpg,saplings,tree-036,test,1f96832a10f1fd174432b9582552b621b3748c9cbae5a01440d5cfa965c2cee0
+trees/tree 036.jpg,saplings,tree-036,test,a5d58dde9dc0cb408755a5edfb9e53e8d8df8bdc0bb72fa09200fcfd6b27b416
+trees/tree 051 (2).jpg,trees,tree-051,test,adf131a2fce4206f908842acbf91340f8c8f4c68019c534d015b1cda239b246c
+trees/tree 051.jpg,trees,tree-051,test,2e7cdb8b06cbeada89080777f34e8bee424f56ad35d89a1cd17276230300b979

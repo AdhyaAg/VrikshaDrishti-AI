@@ -1,0 +1,47 @@
+{
+  "source_original_images": 128,
+  "source_valid_images": 128,
+  "source_unique_images": 126,
+  "validated_images": 116,
+  "class_counts": {
+    "saplings": 21,
+    "leafs": 54,
+    "trees": 41
+  },
+  "train_count": 72,
+  "validation_count": 22,
+  "test_count": 22,
+  "pending_review": 7,
+  "excluded": 5,
+  "species_verified_count": 0,
+  "health_verified_count": 0,
+  "disease_verified_count": 0,
+  "augmentation": {
+    "mode": "on-the-fly, training split only",
+    "generated_files": 0
+  },
+  "seed": 42,
+  "split_class_counts": {
+    "train": {
+      "saplings": 13,
+      "leafs": 34,
+      "trees": 25
+    },
+    "validation": {
+      "leafs": 10,
+      "saplings": 4,
+      "trees": 8
+    },
+    "test": {
+      "saplings": 4,
+      "leafs": 10,
+      "trees": 8
+    }
+  },
+  "selected_candidate": "baseline",
+  "test_accuracy": 0.5,
+  "macro_f1": 0.49523809523809526,
+  "weighted_f1": 0.5367965367965368,
+  "augmentation_test_accuracy": 0.6818181818181818,
+  "baseline_test_accuracy": 0.5
+}

@@ -1,0 +1,70 @@
+{
+  "seed": 42,
+  "dataset_manifest": "reports/image_audit_manifest.csv",
+  "training_source": "to review real dataset",
+  "excluded_source_folder": "datasets",
+  "split_strategy": "Nested 5-fold/4-fold StratifiedGroupKFold; split chosen by class-count balance only; same filename-index groups held together.",
+  "grouping_limitations": "Filename number/variant groups approximate capture subjects; original tree/session identifiers were not recorded.",
+  "image_size": [
+    224,
+    224
+  ],
+  "preprocessing": "RGB decode, bilinear resize to 224x224, float32 [0,255]; EfficientNetB0 built-in preprocessing. Uploaded images are EXIF-oriented before resize.",
+  "resize_method": "bilinear",
+  "class_names": [
+    "leafs",
+    "saplings",
+    "trees"
+  ],
+  "split_counts": {
+    "train": {
+      "total": 72,
+      "class_counts": {
+        "saplings": 13,
+        "leafs": 34,
+        "trees": 25
+      },
+      "group_count": 48
+    },
+    "validation": {
+      "total": 22,
+      "class_counts": {
+        "leafs": 10,
+        "saplings": 4,
+        "trees": 8
+      },
+      "group_count": 15
+    },
+    "test": {
+      "total": 22,
+      "class_counts": {
+        "saplings": 4,
+        "leafs": 10,
+        "trees": 8
+      },
+      "group_count": 14
+    }
+  },
+  "validated_class_counts": {
+    "saplings": 21,
+    "leafs": 54,
+    "trees": 41
+  },
+  "augmentation": {
+    "mode": "On the fly in the model; training split only",
+    "transforms": [
+      "horizontal flip, p=0.5",
+      "rotation factor 0.08",
+      "zoom factor 0.10",
+      "translation factor 0.05 each axis",
+      "brightness factor 0.08",
+      "contrast factor 0.08"
+    ],
+    "vertical_flip": false,
+    "blur_or_noise": false,
+    "generated_files": 0
+  },
+  "model": "EfficientNetB0 ImageNet weights with a frozen feature extractor; 128-unit dense classification head; dropout 0.35/0.25; sparse categorical cross-entropy; balanced class weights; validation early stopping (maximum 10 epochs). Augmentation is excluded from the exported inference graph.",
+  "device": "CPU",
+  "initialization": "Cached ImageNet EfficientNetB0 no-top weights, independent of the old project model."
+}

@@ -1,0 +1,362 @@
+{
+  "leafs/38b21514-5833-4546-bb44-0ef32d8c38fa.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.82,
+    "evidence": "A single young planted tree is visible. The identical copy is filed under trees, so this is retained once with a corrected coarse image category."
+  },
+  "trees/tree 041.jpg": {
+    "decision": "exclude",
+    "confidence": 1.0,
+    "evidence": "Exact duplicate of leafs/38b21514-5833-4546-bb44-0ef32d8c38fa.jpg with a conflicting original folder label."
+  },
+  "leafs/leaf 001.jpeg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "Young planted trees dominate the frame; the image is not a leaf-focused close-up."
+  },
+  "leafs/leaf 010.jpeg": {
+    "decision": "review",
+    "confidence": 0.43,
+    "evidence": "Wide planting-area view with several small plants; the intended leafs-versus-saplings/trees category is not clear."
+  },
+  "leafs/leaf 023.jpeg": {
+    "decision": "exclude",
+    "confidence": 1.0,
+    "evidence": "Exact duplicate of leafs/leaf 010.jpeg; that image is pending category review."
+  },
+  "leafs/leaf 017.jpeg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "A young planted tree is visible as a whole plant in the foreground."
+  },
+  "leafs/leaf 020.jpeg": {
+    "decision": "exclude",
+    "confidence": 0.92,
+    "evidence": "The frame is dominated by grass/ground cover; no tree or leaf sample is identifiable."
+  },
+  "leafs/leaf 024.jpeg": {
+    "decision": "review",
+    "confidence": 0.4,
+    "evidence": "Wide site view without one clear leaf, sapling, or tree subject."
+  },
+  "leafs/leaf 025.jpeg": {
+    "decision": "exclude",
+    "confidence": 0.9,
+    "evidence": "A sign dominates the frame; it is not a usable image for the visual category task."
+  },
+  "saplings/sap 001.jpeg": {
+    "decision": "exclude",
+    "confidence": 0.9,
+    "evidence": "The frame shows ground cover/grass without an identifiable sapling."
+  },
+  "saplings/sap 004.jpeg": {
+    "decision": "review",
+    "confidence": 0.45,
+    "evidence": "Foliage is visible but the image does not establish that the main subject is a sapling."
+  },
+  "unclear/unknown 001.jpeg": {
+    "decision": "review",
+    "confidence": 0.4,
+    "evidence": "The image shows a distant mixed site scene; the unclear class has no written operational definition."
+  },
+  "unclear/unknown 002.jpeg": {
+    "decision": "review",
+    "confidence": 0.4,
+    "evidence": "The image shows distant foliage/site context; the unclear class has no written operational definition."
+  },
+  "unclear/unknown 003.jpeg": {
+    "decision": "review",
+    "confidence": 0.4,
+    "evidence": "A tree is visible, but the folder's unclear label is not defined well enough to keep as ground truth."
+  },
+  "unclear/unknown 004.jpeg": {
+    "decision": "review",
+    "confidence": 0.4,
+    "evidence": "A tree is visible, but the folder's unclear label is not defined well enough to keep as ground truth."
+  },
+  "trees/tree 010 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "Foliage/leaf detail fills the frame; no whole tree is shown."
+  },
+  "trees/tree 010 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The foreground foliage is the primary subject rather than a whole tree."
+  },
+  "trees/tree 011 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The close view is centered on a branch and leaves, not a whole tree."
+  },
+  "trees/tree 012 (2).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "A small, individual planted tree is the primary subject."
+  },
+  "trees/tree 012 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The close view is centered on leaves, not the whole plant."
+  },
+  "trees/tree 014 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "A close foliage view fills the frame."
+  },
+  "trees/tree 014 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "A close foliage view fills the frame."
+  },
+  "trees/tree 015 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The frame is dominated by a leafy branch rather than a whole tree."
+  },
+  "trees/tree 015 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The frame is dominated by leaves/branch detail rather than a whole tree."
+  },
+  "trees/tree 016 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "Close branch and leaf detail fills the frame."
+  },
+  "trees/tree 017 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "Close foliage view; no whole tree is shown."
+  },
+  "trees/tree 017 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.85,
+    "evidence": "Close view of individual leaves with visible spots; the label is about image framing, not a disease diagnosis."
+  },
+  "trees/tree 017 (4).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "Foliage/branch detail is the main subject."
+  },
+  "trees/tree 018 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "Close foliage detail is the main subject."
+  },
+  "trees/tree 019 (2).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.72,
+    "evidence": "A small planted flowering tree/shrub is shown as a whole plant."
+  },
+  "trees/tree 020 (2).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.82,
+    "evidence": "A small individual planted tree is the primary subject."
+  },
+  "trees/tree 021 (2).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.75,
+    "evidence": "A small planted tree is visible as a whole subject."
+  },
+  "trees/tree 021 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The image is a close view of leaves, not a whole tree."
+  },
+  "trees/tree 021 (4).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "A small planted tree is the primary subject."
+  },
+  "trees/tree 021.jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "Close view of foliage/leaf structure rather than a whole tree."
+  },
+  "trees/tree 022 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "Close leaves fill the frame."
+  },
+  "trees/tree 023 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "The frame focuses on foliage rather than a whole tree."
+  },
+  "trees/tree 024 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "Close foliage fills the frame; the wider tree context is not visible."
+  },
+  "trees/tree 026 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.82,
+    "evidence": "Close leaves dominate the frame."
+  },
+  "trees/tree 028.jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The image focuses on foliage/branches rather than a whole tree."
+  },
+  "trees/tree 029 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "The close view is centered on leaves/branch detail."
+  },
+  "trees/tree 030.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "A small planted tree is the primary subject."
+  },
+  "trees/tree 032.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "A small single planted tree is shown in the foreground."
+  },
+  "trees/tree 033 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.75,
+    "evidence": "The foliage of a small tree fills the frame; it is not a whole-tree view."
+  },
+  "trees/tree 033.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.72,
+    "evidence": "A small planted plant/tree is shown as a whole subject."
+  },
+  "trees/tree 034 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.82,
+    "evidence": "Close view of an individual leaf."
+  },
+  "trees/tree 034.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "A small individual planted tree is shown as a whole subject."
+  },
+  "trees/tree 035 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.76,
+    "evidence": "Close view of foliage and leaf detail."
+  },
+  "trees/tree 035.jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.75,
+    "evidence": "Foliage fills the frame; the whole tree is not visible."
+  },
+  "trees/tree 036 (2).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.75,
+    "evidence": "A young planted tree is visible in its entirety."
+  },
+  "trees/tree 036.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.75,
+    "evidence": "A young planted tree is visible in its entirety."
+  },
+  "trees/tree 037 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "Close branch and leaf detail is the primary subject."
+  },
+  "trees/tree 037.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "A young planted tree is visible as a whole subject."
+  },
+  "trees/tree 038.jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "Close foliage detail fills the frame."
+  },
+  "trees/tree 039 (2).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.75,
+    "evidence": "A small flowering plant/tree is shown as a whole subject."
+  },
+  "trees/tree 039 (3).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "A small flowering plant/tree is shown as a whole subject."
+  },
+  "trees/tree 039 (4).jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.75,
+    "evidence": "A small flowering plant/tree is shown as a whole subject."
+  },
+  "trees/tree 044.jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "Close foliage is the primary subject."
+  },
+  "trees/tree 045.jpg": {
+    "verified_class": "saplings",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "A small planted tree is shown as a whole subject."
+  },
+  "trees/tree 049 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.8,
+    "evidence": "The close view is centered on leaf/branch detail."
+  },
+  "trees/tree 049 (3).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.76,
+    "evidence": "The close view is centered on foliage, not a whole tree."
+  },
+  "trees/tree 050 (2).jpg": {
+    "verified_class": "leafs",
+    "decision": "correct",
+    "confidence": 0.78,
+    "evidence": "The close view is centered on foliage rather than a whole tree."
+  }
+}

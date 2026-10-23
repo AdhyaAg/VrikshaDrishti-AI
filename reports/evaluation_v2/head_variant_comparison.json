@@ -1,0 +1,55 @@
+{
+  "selection_rule": "Validation macro F1, ties broken by validation accuracy; baseline retained unless a candidate beats it.",
+  "split_source": "reports/evaluation_v2/split_manifest.csv",
+  "training_images": 72,
+  "effective_training_samples_per_epoch": {
+    "original": 72,
+    "balanced_augmented": 102
+  },
+  "validation_images": 22,
+  "test_images": 22,
+  "augmentation": "Existing randomized on-the-fly augmentation; training split only.",
+  "baseline_validation": {
+    "accuracy": 0.6363636363636364,
+    "macro_f1": 0.6324786324786325,
+    "weighted_f1": 0.6666666666666667
+  },
+  "candidates_validation": {
+    "linear_augmented": {
+      "accuracy": 0.5909090909090909,
+      "macro_f1": 0.48765432098765427,
+      "weighted_f1": 0.5084175084175083,
+      "epochs_run": 20,
+      "support": {
+        "leafs": 10,
+        "saplings": 4,
+        "trees": 8
+      }
+    },
+    "compact_augmented": {
+      "accuracy": 0.5,
+      "macro_f1": 0.35198135198135194,
+      "weighted_f1": 0.44691671964399243,
+      "epochs_run": 20,
+      "support": {
+        "leafs": 10,
+        "saplings": 4,
+        "trees": 8
+      }
+    },
+    "balanced_augmented": {
+      "accuracy": 0.5909090909090909,
+      "macro_f1": 0.4825396825396826,
+      "weighted_f1": 0.5307359307359308,
+      "epochs_run": 17,
+      "support": {
+        "leafs": 10,
+        "saplings": 4,
+        "trees": 8
+      }
+    }
+  },
+  "selected_by_validation": "baseline",
+  "selected_candidate_test": null,
+  "promoted_to_active_model": false
+}
